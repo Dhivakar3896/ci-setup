@@ -1,0 +1,5 @@
+replicaCount: 1
+
+image:
+  repository: itsdivi3896/go-web-app
+  tag: v1
