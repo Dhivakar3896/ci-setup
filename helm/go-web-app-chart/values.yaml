@@ -2,4 +2,4 @@ replicaCount: 1
 
 image:
   repository: itsdivi3896/go-web-app
-  tag: "12288611837"
+  tag: "12293363271"
